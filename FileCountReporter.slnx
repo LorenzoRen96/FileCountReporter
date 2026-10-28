@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../../../Pictures/Screenshots/FileCountReporterScr1.151459.png" />
+    <File Path="README.md" />
+  </Folder>
   <Project Path="FileCountReporter/FileCountReporter.csproj" />
 </Solution>
