@@ -15,8 +15,8 @@ This project was created with the help of GPT-5.6 Luna for education purposes.
 - A code editor or IDE (e.g., Visual Studio, Visual Studio Code)
 
 ## Downloads
-https://visualstudio.microsoft.com/downloads/ 
-https://dotnet.microsoft.com/en-us/download/dotnet/10.0
+- https://visualstudio.microsoft.com/downloads/ 
+- https://dotnet.microsoft.com/en-us/download/dotnet/10.0
 
 ## Screenshots
 ![Screenshot of FileCountReporter](assets/FileCountReporterScr1.151459.png)
