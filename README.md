@@ -11,11 +11,11 @@ This project was created with the help of GPT-5.6 Luna for education purposes.
 
 ## Prerequisites
 - Windows 10 or later
-- .NET 6.0 SDK or later
+- .NET 10.0 SDK or later
 - A code editor or IDE (e.g., Visual Studio, Visual Studio Code)
 
 ## Downloads
-https://visualstudio.microsoft.com/downloads/
+https://visualstudio.microsoft.com/downloads/ 
 https://dotnet.microsoft.com/en-us/download/dotnet/10.0
 
 ## Screenshots
